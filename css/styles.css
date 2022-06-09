@@ -1,0 +1,88 @@
+/* TAG SELECTORS */
+
+body {
+  background-color:  #ff4c68;
+  padding: 100px 150px;
+}
+
+
+/* CLASS SELECTORS */
+
+.big-header {
+  border-style: solid;
+  color: #fff;
+  padding: 10px;
+}
+
+.nav-link {
+  margin: 0 30px;
+  color: #fff;
+}
+
+.nav-link:hover {
+  color: #fff;
+  font-weight: bold;
+  text-decoration: underline;
+  width: 100%;
+  transition: 0.5s;
+}
+
+.interior-image {
+  width: 100%;
+  position:
+}
+
+.body-text {
+  color: #fff;
+  margin: auto;
+}
+
+.second-p {
+  font-weight: bold;
+}
+
+.fa-solid {
+  margin-left: 10px;
+}
+
+
+
+.modern {
+  color: #000;
+  font-family: 'Merriweather', serif;
+}
+
+.designer-image {
+  border-radius: 50%;
+  width: 100%;
+}
+
+.foot {
+  margin-bottom: 0;
+  font-size: 0.8rem;
+}
+
+.third-p {
+  font-weight: light;
+  font-size: 0.8rem;
+}
+
+.container-fluid {
+  position: relative;
+
+}
+
+/* ID SELECTORS */
+
+#body {
+  padding-top: 100px;
+}
+
+#footer {
+  border-radius: 5%;
+  background-color: #ef8172;
+  padding: 10px 50px 20px 20px;
+  position: absolute;
+  right: 50px;
+
+}
